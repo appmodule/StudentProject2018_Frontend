@@ -1,0 +1,56 @@
+.widget-cont {
+    min-width: 250px;
+    min-height: 270px;   
+    float: left;
+    margin-right: 1%;
+    border: 1px solid #fff;
+    background-color: #172D38;
+    color: #fff;
+    position: absolute;
+    cursor: move;
+    box-sizing: border-box;
+}
+.widgetHeader {
+    padding: 5px 10px;
+    border-bottom: 1px solid #fff;
+}
+.widgetHeader h2 {
+    margin-bottom: 0;
+}
+.widget {
+    padding: 5px 10px;   
+    box-sizing: border-box;
+}
+.widget > button {
+    border: 0 none;
+    border-radius: 5%;
+    padding: 1%;
+    color: #000;
+    background-color: #fff;
+    text-align: center;
+    font-size: 12px;
+}
+
+.btnX {
+    border-radius: 50%;
+    line-height: 1;
+    text-align: center;
+    font-size: 14px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    border: 0 none;
+}
+
+.btn-info.btnX {
+    background-color: transparent;
+}
+.widget-container {   
+    box-sizing: border-box;
+    min-height: 670px;
+    height: 100%;
+    padding: 1%;
+    position: relative;
+    display: block;
+}

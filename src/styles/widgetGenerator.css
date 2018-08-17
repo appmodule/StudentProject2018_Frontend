@@ -1,0 +1,46 @@
+.main-container {
+    position: relative;
+}
+.bckLink {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.btnWidgPop {   
+    float:left;
+    margin:5% 20% 0 0 ;
+}
+.btnWidgPop.btnCenter {
+    margin: 0 auto;
+    float: none;
+    width: 40%;
+    display: block;
+}
+.btns {
+    margin-left:20%;
+}
+.MuiInput-underline-124::before {
+    border-bottom: 1px solid #217FBF
+}
+.MuiInput-underline-124::after {
+    border-bottom: 1px solid #859900
+}
+.MuiFormLabel-root-113 {
+    color: #217FBF
+}
+.MuiFormLabel-root-113.MuiFormLabel-focused-114 {
+    color: #859900
+}
+.jss113 {
+    color: #217FBF !important
+}
+.jss113.jss114 {
+    color: #859900 !important
+}
+.jss124::before {
+    border-bottom: 1px solid #217FBF !important
+}
+.jss124::after {
+    border-bottom: 1px solid #859900 !important
+}

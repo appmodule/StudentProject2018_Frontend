@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width:100%;
+  background-color: #274C5E;
+}
+.jss113 {
+  color: #217FBF !important
+}
+.jss113.jss114 {
+  color: #859900 !important
+}
+.jss124::before {
+  border-bottom: 1px solid #217FBF !important
+}
+.jss124::after {
+  border-bottom: 1px solid #859900 !important
+}

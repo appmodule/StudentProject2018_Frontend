@@ -1,0 +1,26 @@
+{
+  "name": "praksa-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.4.3",
+    "@material-ui/icons": "^2.0.1",
+    "axios": "^0.18.0",
+    "generate-schema": "^2.6.0",
+    "jsonschema": "^1.2.4",
+    "mqtt": "^2.18.2",
+    "react": "^16.4.1",
+    "react-ace": "^6.1.4",
+    "react-dom": "^16.4.1",
+    "react-draggable": "^3.0.5",
+    "react-render-html": "^0.6.0",
+    "react-responsive-modal": "^3.2.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "apps" : [
+    {
+      "name"      : "ssiot-front",
+      "script"    : "npx",
+      "interpreter": "none",
+      "args": "serve -s build --listen=2032"
+    }
+  ]
+}
