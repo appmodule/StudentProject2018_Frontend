@@ -1,7 +1,7 @@
 # SSIOT Frontend (Summer internship 2018 - [AppModule](http://www.appmodule.net/))
 
 ## Description
-SSIOT Frontend is a frontend web application working with [SSIOT Backend](https://github.com/appmodule/StudentProject2018_Backend)) and [SSIOT iOS](https://github.com/appmodule/StudentProject2018_Mobile) on connecting Internet of things devices. It is written in javascript using React framework and its main functionality is to display data received from other devices. Data is displayed on widgets that are custom made by a user, and the user can make a completely new widget or use an already existing one.
+SSIOT Frontend is a frontend web application working with [SSIOT Backend](https://github.com/appmodule/StudentProject2018_Backend) and [SSIOT iOS](https://github.com/appmodule/StudentProject2018_Mobile) on connecting Internet of things devices. It is written in javascript using React framework and its main functionality is to display data received from other devices. Data is displayed on widgets that are custom made by a user, and the user can make a completely new widget or use an already existing one.
 
 ## References
 
